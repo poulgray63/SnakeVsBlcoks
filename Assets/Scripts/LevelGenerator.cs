@@ -11,5 +11,6 @@ public class LevelGenerator : MonoBehaviour
 
     private void Update()
     {
+        Debug.Log("test");
     }
 }
